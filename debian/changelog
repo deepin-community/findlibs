@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+findlibs (0.0.5-1) unstable; urgency=medium
 
-  * Initial release
+  * Standards-Version: 4.6.2
+  * New upstream release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Alastair McKinstry <mckinstry@debian.org>  Wed, 06 Dec 2023 11:07:27 +0000
+
+findlibs (0.0.2-2) unstable; urgency=medium
+
+  * Push to unstable
+
+ -- Alastair McKinstry <mckinstry@debian.org>  Mon, 11 Oct 2021 12:30:42 +0100
+
+findlibs (0.0.2-1) experimental; urgency=medium
+
+  * Initial release. (Closes: #994756)
+
+ -- Alastair McKinstry <mckinstry@debian.org>  Fri, 03 Sep 2021 09:53:02 +0100
